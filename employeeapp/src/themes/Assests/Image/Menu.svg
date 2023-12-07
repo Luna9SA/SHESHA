@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="31 63.95 49 49">
+    <g data-name="Group 101">
+        <path d="M31 88.4a24.5 24.5 0 1 1 0 .1z" fill="#fff" fill-rule="evenodd" data-name="Ellipse 1"/>
+        <g data-name="Group 64">
+            <path d="M41.5 81h28a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5h-28a1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill-rule="evenodd" data-name="Rectangle 51"/>
+            <path d="M41.5 87h28a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5h-28a1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill-rule="evenodd" data-name="Rectangle 52"/>
+            <path d="M41.5 93h28a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5h-28a1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill-rule="evenodd" data-name="Rectangle 53"/>
+        </g>
+    </g>
+</svg>

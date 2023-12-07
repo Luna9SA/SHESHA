@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118362888460",
+    "project_id": "shesha-93150",
+    "storage_bucket": "shesha-93150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118362888460:android:3cd8828177780123f19129",
+        "android_client_info": {
+          "package_name": "com.employeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118362888460-gorkihvhi8v2inlus9up0c5gvbks45fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnuazF0OjqmcQHUGSjde8dbtpOJhroGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118362888460-gorkihvhi8v2inlus9up0c5gvbks45fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
